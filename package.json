@@ -1,0 +1,43 @@
+{
+  "name": "fileloom",
+  "version": "0.0.1",
+  "description": "FileLoom is a powerful CLI tool that weaves insights into your Project! 🚀",
+  "main": "fileloom.js",
+  "bin": {
+    "fileloom": "./bin/fileloom.js"
+  },
+  "keywords": [
+    "file",
+    "files",
+    "directory",
+    "insights",
+    "analysis",
+    "CLI",
+    "tool",
+    "code",
+    "development",
+    "programming",
+    "statistics",
+    "information",
+    "exploration",
+    "utility",
+    "explore",
+    "analyze",
+    "npm",
+    "package",
+    "codebase",
+    "size"
+  ],
+  "author": "Suraj Verma (gadgetvala)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "cli-table3": "^0.6.3",
+    "inquirer": "^9.2.12",
+    "line-by-line": "^0.1.6",
+    "readline": "^1.3.0",
+    "recursive-readdir": "^2.2.3",
+    "yargs": "^17.7.2"
+  }
+}

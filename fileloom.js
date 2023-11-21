@@ -106,7 +106,7 @@ const printTableWithPagination = () => {
   const showTable = () => {
     console.clear();
     console.log(`Page ${currentPage + 1} of ${pages.length}`);
-    console.log(currentPage[currentPage].toString());
+    console.log(pages[currentPage].toString());
   };
 
   // Function to display the summary table

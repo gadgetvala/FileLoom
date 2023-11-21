@@ -1,12 +1,18 @@
-# FileLoom 🧵
+<h1 align="center">FileLoom 🧵</h1>
+<p align="center">FileLoom is a versatile CLI tool designed for exploring, analyzing, and gaining insights into your files. Whether you're managing a codebase, project, or a collection of documents, FileLoom provides a seamless way to understand the composition of your files, helping you make informed decisions.</p>
+</i>
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FileLoom.svg?style=social)](https://github.com/gadgetvala/FileLoom)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/FileLoom.svg?style=social)](https://github.com/gadgetvala/FileLoom)
-[![GitHub license](https://img.shields.io/github/license/yourusername/FileLoom.svg)](https://github.com/gadgetvala/FileLoom/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/FileLoom.svg)](https://github.com/gadgetvala/FileLoom/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/yourusername/FileLoom.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20FileLoom%20%E2%80%93%20a%20powerful%20CLI%20tool%20for%20file%20exploration%20and%20analysis%21%20%F0%9F%94%8D%20%23FileLoom%20%23CLI%20%23Development)
-
-FileLoom is a versatile CLI tool designed for exploring, analyzing, and gaining insights into your files. Whether you're managing a codebase, project, or a collection of documents, FileLoom provides a seamless way to understand the composition of your files, helping you make informed decisions.
+<div align="center">
+  <a href="https://www.github.com/gadgetvala/FileLoom">
+      <img src="https://img.shields.io/github/stars/gadgetvala/FileLoom.svg?style=social"alt="Github Star"/>
+  </a>
+  <a href="https://www.github.com/gadgetvala/FileLoom">
+      <img src="https://img.shields.io/github/forks/gadgetvala/FileLoom.svg?style=social"alt="Github Fork"/>
+  </a>
+  <a href="https://github.com/gadgetvala/FileLoom/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/gadgetvala/FileLoom.svg"alt="GitHub license"/>
+  </a>
+</div>
 
 ## Table of Contents
 
@@ -65,6 +71,8 @@ For more details on available options, refer to the [Usage Guide](./docs/usage.m
 - 🚀 **Fast and Efficient:** FileLoom is designed for performance.
 
 ## Contributing
+
+Made by [Suraj Verma](https://github.com/gadgetvala)
 
 We welcome contributions from the community! If you have ideas, bug reports, or feature requests, feel free to [open an issue](https://github.com/gadgetvala/FileLoom/issues) or submit a pull request.
 

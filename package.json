@@ -6,6 +6,16 @@
   "bin": {
     "fileloom": "./bin/fileloom.js"
   },
+  "author": {
+    "name": "Suraj Verma (gadgetvala)",
+    "email": "surajj.verma7@gmail.com",
+    "url": "https://gadgetvala.github.io"
+  },
+  "repository": "https://github.com/gadgetvala/FileLoom.git",
+  "bugs": {
+    "url": "https://github.com/gadgetvala/FileLoom/issues"
+  },
+  "homepage": "https://github.com/gadgetvala/FileLoom#readme",
   "keywords": [
     "file",
     "files",
@@ -28,7 +38,6 @@
     "codebase",
     "size"
   ],
-  "author": "Suraj Verma (gadgetvala)",
   "license": "MIT",
   "type": "module",
   "dependencies": {

@@ -1,10 +1,10 @@
 {
   "name": "fileloom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "FileLoom is a powerful CLI tool that weaves insights into your Project! 🚀",
   "main": "fileloom.js",
   "bin": {
-    "fileloom": "./bin/fileloom.js"
+    "fileloom": "./fileloom.js"
   },
   "author": {
     "name": "Suraj Verma (gadgetvala)",
